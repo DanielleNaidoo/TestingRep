@@ -5,7 +5,7 @@ public class GitTesting {
     public static void main(String[] args) {
        System.out.print("Hello world");
        System.out.print("Hello world");
-       gfhgfhgd
+       System.out.print("This is my third commit");
     }
     
 }
