@@ -9,7 +9,7 @@ public class GitTesting {
        System.out.print("This is my Fourth commit");
        System.out.print("This is my fifth commit");
        
-       System.out.print("This is my newest commit, its the next day");
+       System.out.print("This is my newest  commit, its the next day");
     }
     
 }
